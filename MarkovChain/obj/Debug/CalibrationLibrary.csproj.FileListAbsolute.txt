@@ -1,0 +1,5 @@
+C:\Users\adebruij\Desktop\BudwormPopulationDensityModel\CalibrationLibrary\bin\Debug\CalibrationLibrary.dll
+C:\Users\adebruij\Desktop\BudwormPopulationDensityModel\CalibrationLibrary\bin\Debug\CalibrationLibrary.pdb
+C:\Users\adebruij\Desktop\BudwormPopulationDensityModel\CalibrationLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adebruij\Desktop\BudwormPopulationDensityModel\CalibrationLibrary\obj\Debug\CalibrationLibrary.dll
+C:\Users\adebruij\Desktop\BudwormPopulationDensityModel\CalibrationLibrary\obj\Debug\CalibrationLibrary.pdb
